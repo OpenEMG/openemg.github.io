@@ -1,5 +1,9 @@
 # OpenEMG Website
 
+## Writing Articles
+
+https://www.contentful.com/
+
 ## Development
 
 ```
